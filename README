@@ -7,7 +7,15 @@ Welcome to the MPA Robotics GitHub repository
 
 
 Git for dummies:
-
 Terms:
 
+Repository (Repo): A project containing your code
+Fork: Copy another persons public repo into your possession
+Branch: Make a separate version of your repo that you can pass around in without breaking the good code
+Commit: A fancy way to save a file
+
+
 More Rules:
+
+1.) You MUST branch the repo you are working on until everyone agrees it is working and should be merged into the final design
+2.) You MUST leave good commit comments that are INFORMATIVE
