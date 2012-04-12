@@ -12,7 +12,8 @@ Terms:
 Repository (Repo): A project containing your code
 Fork: Copy another persons public repo into your possession
 Branch: Make a separate version of your repo that you can pass around in without breaking the good code
-Commit: A fancy way to save a file
+Commit: A fancy way to save a file with comments. It allows you to track the changes from one version of a file to another
+Checkout: Switch your active branch
 
 
 More Rules:
