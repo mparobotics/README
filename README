@@ -20,3 +20,9 @@ More Rules:
 
 1.) You MUST branch the repo you are working on until everyone agrees it is working and should be merged into the final design
 2.) You MUST leave good commit comments that are INFORMATIVE
+
+Website Rules:
+
+1.) Please publish to the branch website 2.0
+2.) Please Commit to the github repo before the actual server.
+3.) Please please please check to make sure its not broken before you commit something!
